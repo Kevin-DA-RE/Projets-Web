@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Inventaire</string>
+    <string name="libMainTitle">Articles en stock</string>
+    <string name="libMainButtonNewArticle">AJOUTER UN ARTICLE</string>
+    <string name="libMainButtonListArticle">LISTE DES ARTICLES</string>
+    <string name="libMainButtonQuit">QUITTER</string>
+    <string name="libAjoutTitle">Ajouter un nouvel article</string>
+    <string name="libAjoutEditRefArticle">Saisir ici la référence de l\'article</string>
+    <string name="libAjoutEditDesArticle">Saisir ici la désignation</string>
+    <string name="libAjoutEditPrixArticle">Saisir le prix</string>
+    <string name="libAjoutEditQteArticle">Saisir la quantité</string>
+    <string name="libAjoutButtonNexArticle">AJOUTER</string>
+    <string name="libAjoutButtonCancelArticle">QUITTER</string>
+    <string name="libListTitle">Liste des articles</string>
+    <string name="libListButtonQuit">QUITTER</string>
+    <string name="libListRef">Ref</string>
+    <string name="libListDes">Désignation</string>
+    <string name="libListPrix">Prix</string>
+    <string name="libListQte">Qté</string>
+</resources>
