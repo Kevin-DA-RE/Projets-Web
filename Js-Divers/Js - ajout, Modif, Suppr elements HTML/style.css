@@ -1,0 +1,66 @@
+body{
+    display: inline-table;
+    padding-left: 20%;
+}
+
+
+section{
+    background-color: azure;
+    width: 600px;
+    border: 2px solid black;
+    box-shadow: 1px 1px 1px grey;
+    text-align: center;
+    padding: 10px;
+}
+
+.red{
+    color: #FF0000;
+}
+
+.green{
+    color: green;;
+}
+
+.yellow{
+    width: 500px;
+    background-color: azure;
+    color: orange;
+    height: 200px;
+    border: 2px solid green;
+}
+
+#ia{
+    background-color: aquamarine;
+    color: darkcyan;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#restIa{
+    background-color: darkred;
+    color: yellow;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+
+
+button{
+    margin: 20px 10px;
+}
+
+#newDiv{
+    background-color: lightskyblue;
+    text-align: center;
+    margin: 20px 10px;
+    color: blue;
+    width: 600px;
+    border: 2px solid lightcoral;
+    border-radius: 20px;
+    font-size: 30px;
+}
+
+.newDiv{
+    background-color: lightseagreen;
+    color: orange;
+}

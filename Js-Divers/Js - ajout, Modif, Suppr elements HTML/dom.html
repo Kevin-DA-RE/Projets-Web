@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>test JS</title>
+</head>
+<body>
+    <!-- Apparition des nouvelles fenêtres-->
+    <button onclick="newDiv()">Surprise !</button>
+    <button onclick="deleteDiv()">Suppression de la div</button>
+
+    <section  id="section1">
+        <h1>Mon test JavaScript</h1>
+        <button onclick="bravo()"id='clickMe'>Cliquez sur moi !</button>
+    </section>
+    <br><br>
+
+    <section>
+        <h2>Text Original</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi et blanditiis cum necessitatibus soluta assumenda expedita culpa dolor aliquid aperiam minus aliquam quia, beatae tenetur natus at vitae, est quas ea quam ad eveniet. Corporis voluptatem architecto nam fuga hic consequatur ex libero obcaecati eum! Dignissimos distinctio alias assumenda? Atque eveniet quos repudiandae placeat accusamus recusandae aliquid sapiente rerum. Fuga doloribus vero maiores totam ipsa sapiente sit quo illo quibusdam impedit libero, iusto veritatis. Aliquid quo numquam natus explicabo sunt temporibus error eligendi, quis voluptates earum consequuntur corporis omnis animi neque nisi dignissimos, vitae cum dicta! Atque provident adipisci odio?</p>
+        <p> amet consectetur adipisicing elit. Soluta dignissimos at natus, iste assumenda in sit nesciunt, provident aliquid voluptatem itaque recusandae? Error nulla ipsum blanditiis reprehenderit saepe laboriosam nihil tempore harum? Qui officiis quod nulla a ut natus, assumenda dolor dolorem, debitis nobis mollitia placeat non! Nostrum laudantium ab nobis ad quas corrupti obcaecati, rerum, cumque eligendi expedita nulla excepturi? Ea distinctio ipsum voluptatum sint quisquam nostrum, sit eligendi dolore quod, molestiae unde soluta magnam provident assumenda iusto aut excepturi nobis suscipit aperiam perspiciatis maxime repudiandae consectetur hic? Necessitatibus veniam a voluptas iusto rem sit quia nihil alias culpa?</p>
+    </section>
+    <br><br>
+
+        <button onclick="insertPrompt()" id="ia">Déclenchez IA</button>
+        <button onclick="resetIA()" id="restIa">Reset IA</button>
+        <h2 id="resultName"></h2>
+
+
+
+   
+
+    <script>
+        // Première fonction du bouton Cliquez sur moi
+        function bravo(){
+            alert('Bravo vous avez compris !')
+        }
+        
+        // Interaction du premier paragraphe
+        var para = document.querySelector('p');
+       
+        var rouge = function (){
+        this.classList.toggle('red');
+        }
+
+        para.addEventListener('click', rouge);
+
+        // Interaction des deux paragraphes
+        var ps = document.querySelectorAll('p');
+
+        for(var i = 0; i < ps.length; i++ ){
+            var ps1 = ps[i];
+            var vert = function (){
+                this.classList.toggle('green');
+            }
+
+            var outColor = function (){
+                this.classList.remove('green');
+            }
+
+            ps1.addEventListener('mouseover', vert);
+            ps1.addEventListener('mouseout', outColor);
+        }
+
+        // Déclenchement IA
+        let name = document.getElementById('resultName');
+
+        function insertPrompt(){
+            var insertName = prompt('Veuillez entrez votre nom ');
+            name.innerText = 'Bonjour ' + insertName + ' ravi de vous voir !';
+        }
+
+        function resetIA(){
+            name.innerText = '';
+        }
+
+        // Creation div
+        var section = document.getElementById('section1');
+
+        function newDiv(){
+
+            // Création des différents éléments de notre div
+            var newDiv = document.createElement('div');
+            newDiv.id = "newDiv";
+            var newPara = document.createElement('p');
+            var para1 = document.createTextNode('Vous venez de créer une nouvelle div, Félicitations !');
+        
+            // insertion des elements les une dans les autres
+            newPara.appendChild(para1);
+            newDiv.appendChild(newPara);
+
+            // Identification de l'emplacement de la nouvelle div
+            document.body.insertBefore(newDiv, section);
+            alert('Vous venez de créer une div :');
+        }
+
+        // Suppression de la div
+        var parent = document.body;
+
+        function deleteDiv(){
+            var currentDiv = document.getElementById('newDiv');
+
+            parent.removeChild(currentDiv);
+            alert('Vous venez de supprimer une div :-(');
+        }
+        
+        // Modification du titre h1
+
+            // Recherche des éléments à modifier
+            var h1 = document.querySelector('h1');
+            var btnClickMe = document.getElementById('clickMe');
+
+            // Creation de la fonction de remplacement
+
+            var replaceSection1 = function (){
+
+                // Creation des nouveaux éléments
+                var divSection1 = document.createElement('div');
+                var newH2 = document.createElement('h2');
+                var newPara = document.createElement('p');
+
+                divSection1.className = 'newDiv';
+                newH2.innerHTML = 'Titre modifié en Js';
+                newPara.innerHTML = 'Ceci est un nouveau paragraphe généré par JavaScript';
+
+                divSection1.appendChild(newH2);
+                divSection1.appendChild(newPara);
+
+
+                section.replaceChild(divSection1, h1);
+                section.insertBefore(divSection1, btnClickMe);
+            }
+            
+            // Suppression de la nouvelle div
+           
+            h1.addEventListener('click', replaceSection1);
+        
+            
+
+            
+
+    </script>
+</body>
+</html>

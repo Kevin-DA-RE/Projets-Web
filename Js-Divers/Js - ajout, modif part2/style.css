@@ -1,0 +1,11 @@
+.newDiv{
+    margin: auto;
+    width: 300px;
+    display: grid;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #D3DC0E;
+    height: max-content;
+    color: "F6FF37";
+    border: 2px solid blue;
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Ajout part 2</title>
+</head>
+
+<body>
+<button>Action !</button>
+
+
+
+
+<script>
+
+    var action = function(){
+        // console.log('La fonction est présente !');
+        var parent = document.body;
+        var para = document.createElement('p');
+        var title = document.createElement('h1');
+        var div = document.createElement('div');
+        div.className = 'newDiv';
+
+        // Saisi du titre
+        var createTitre = prompt('Ecrivez votre titre');
+        title.innerHTML = '<mark>' +createTitre+ '</mark>';
+        div.appendChild(title);
+
+        // Saisi du paragraphe
+        var name = prompt('ecrivez votre nom ici');
+        para.innerHTML = 'Bonjour <strong>'+name+' </strong> et bienvenue !';
+        div.appendChild(para);
+        
+
+        // Insertion des données dans le corps de la page web
+        parent.appendChild(div);
+    }
+
+    var btnAction = document.querySelector('button');
+
+    btnAction.addEventListener('click', action);
+
+
+</script>
+</body>
+
+</html>
