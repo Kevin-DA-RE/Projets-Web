@@ -1,0 +1,40 @@
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\AboMultisport-AR-KD.exe.config
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\AboMultisport-AR-KD.exe
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\Metier.dll
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\DAL.dll
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\MySql.Data.dll
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\Google.Protobuf.dll
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\Zstandard.Net.dll
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\BouncyCastle.Crypto.dll
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\Ubiety.Dns.Core.dll
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\Renci.SshNet.dll
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\System.Memory.dll
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\System.Buffers.dll
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\K4os.Compression.LZ4.dll
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\K4os.Hash.xxHash.dll
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\System.Numerics.Vectors.dll
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\Metier.pdb
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\DAL.pdb
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\MySql.Data.xml
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\obj\x64\test\Presentation.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\obj\x64\test\AboMultisport-AR-KD.exe.config
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\obj\x64\test\Frm_Cotisation.Cotisation.resources
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\obj\x64\test\AboMultisport_AR_KD.Properties.Resources.resources
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\obj\x64\test\Presentation.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\obj\x64\test\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\obj\x64\test\Presentation.csproj.CopyComplete
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\obj\x64\test\AboMultisport-AR-KD.exe
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\obj\x64\test\AboMultisport_AR_KD.Accueil.resources
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\obj\x64\test\AboMultisport_AR_KD.FrmInscrip.resources
+C:\Users\HP\source\repos\AboMultisport-AR-KD V2\AboMultisport-AR-KD\obj\x64\test\Presentation.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\AboMultisport-AR-KD V2\AboMultisport-AR-KD\obj\x64\test\AboMultisport-AR-KD.exe.config
+C:\Users\HP\source\repos\AboMultisport-AR-KD V2\AboMultisport-AR-KD\obj\x64\test\AboMultisport_AR_KD.Accueil.resources
+C:\Users\HP\source\repos\AboMultisport-AR-KD V2\AboMultisport-AR-KD\obj\x64\test\Frm_Cotisation.Cotisation.resources
+C:\Users\HP\source\repos\AboMultisport-AR-KD V2\AboMultisport-AR-KD\obj\x64\test\AboMultisport_AR_KD.FrmInscrip.resources
+C:\Users\HP\source\repos\AboMultisport-AR-KD V2\AboMultisport-AR-KD\obj\x64\test\AboMultisport_AR_KD.Properties.Resources.resources
+C:\Users\HP\source\repos\AboMultisport-AR-KD V2\AboMultisport-AR-KD\obj\x64\test\Presentation.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\AboMultisport-AR-KD V2\AboMultisport-AR-KD\obj\x64\test\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\darek\source\repos\AboMultisport-AR-KD V2\AboMultisport-AR-KD\obj\x64\test\Presentation.csprojAssemblyReference.cache
+C:\Users\darek\source\repos\AboMultisport-AR-KD V2\AboMultisport-AR-KD\obj\x64\test\AboMultisport-AR-KD.exe.config

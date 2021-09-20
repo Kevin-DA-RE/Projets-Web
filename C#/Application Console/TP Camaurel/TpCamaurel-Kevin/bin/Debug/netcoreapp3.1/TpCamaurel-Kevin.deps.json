@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TpCamaurel-Kevin/1.0.0": {
+        "dependencies": {
+          "GestionNoteFrais": "1.0.0"
+        },
+        "runtime": {
+          "TpCamaurel-Kevin.dll": {}
+        }
+      },
+      "GestionNoteFrais/1.0.0": {
+        "runtime": {
+          "GestionNoteFrais.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TpCamaurel-Kevin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GestionNoteFrais/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

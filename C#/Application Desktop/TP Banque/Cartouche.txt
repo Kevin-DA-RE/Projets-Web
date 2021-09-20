@@ -1,0 +1,11 @@
+/*==========================================================================
+* Programme: AppConsoleBanque
+*
+*Date Création:
+*Date dernière modification:
+*
+*Description : test de la DLL libBanque
+*
+*Auteur : KD
+*
+*===========================================================================*/

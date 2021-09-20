@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\SolutionBanqueroute\AppConsoleBanque\bin\Debug\netcoreapp3.1\AppConsoleBanque.exe
+C:\Users\HP\source\repos\SolutionBanqueroute\AppConsoleBanque\bin\Debug\netcoreapp3.1\AppConsoleBanque.deps.json
+C:\Users\HP\source\repos\SolutionBanqueroute\AppConsoleBanque\bin\Debug\netcoreapp3.1\AppConsoleBanque.runtimeconfig.json
+C:\Users\HP\source\repos\SolutionBanqueroute\AppConsoleBanque\bin\Debug\netcoreapp3.1\AppConsoleBanque.runtimeconfig.dev.json
+C:\Users\HP\source\repos\SolutionBanqueroute\AppConsoleBanque\bin\Debug\netcoreapp3.1\AppConsoleBanque.dll
+C:\Users\HP\source\repos\SolutionBanqueroute\AppConsoleBanque\bin\Debug\netcoreapp3.1\AppConsoleBanque.pdb
+C:\Users\HP\source\repos\SolutionBanqueroute\AppConsoleBanque\bin\Debug\netcoreapp3.1\libBanque.dll
+C:\Users\HP\source\repos\SolutionBanqueroute\AppConsoleBanque\bin\Debug\netcoreapp3.1\libBanque.pdb
+C:\Users\HP\source\repos\SolutionBanqueroute\AppConsoleBanque\obj\Debug\netcoreapp3.1\AppConsoleBanque.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\SolutionBanqueroute\AppConsoleBanque\obj\Debug\netcoreapp3.1\AppConsoleBanque.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SolutionBanqueroute\AppConsoleBanque\obj\Debug\netcoreapp3.1\AppConsoleBanque.AssemblyInfo.cs
+C:\Users\HP\source\repos\SolutionBanqueroute\AppConsoleBanque\obj\Debug\netcoreapp3.1\AppConsoleBanque.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SolutionBanqueroute\AppConsoleBanque\obj\Debug\netcoreapp3.1\AppConsoleBanque.csproj.CopyComplete
+C:\Users\HP\source\repos\SolutionBanqueroute\AppConsoleBanque\obj\Debug\netcoreapp3.1\AppConsoleBanque.dll
+C:\Users\HP\source\repos\SolutionBanqueroute\AppConsoleBanque\obj\Debug\netcoreapp3.1\AppConsoleBanque.pdb
+C:\Users\HP\source\repos\SolutionBanqueroute\AppConsoleBanque\obj\Debug\netcoreapp3.1\AppConsoleBanque.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Er+OOSYlv3sHiyVK8s1+2cAtwJI9LgiMs7FaPXsT52xEwUQ68fFr/Z01SHrb7xizVKw9nr/ekr6+u9lduXk6ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\darek\\source\\repos\\SolutionBanqueroute\\libBanque\\libBanque.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\darek\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\darek\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

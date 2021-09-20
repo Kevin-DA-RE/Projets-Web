@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CP03 TD2 EX1 Eleves/1.0.0": {
+        "runtime": {
+          "CP03 TD2 EX1 Eleves.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CP03 TD2 EX1 Eleves/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

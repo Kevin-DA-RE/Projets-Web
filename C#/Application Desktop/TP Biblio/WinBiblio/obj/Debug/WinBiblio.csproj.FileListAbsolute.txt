@@ -1,0 +1,54 @@
+C:\Users\HP\source\repos\CP03_biblio\WinBiblio\bin\Debug\WinBiblio.exe.config
+C:\Users\HP\source\repos\CP03_biblio\WinBiblio\bin\Debug\WinBiblio.exe
+C:\Users\HP\source\repos\CP03_biblio\WinBiblio\bin\Debug\WinBiblio.pdb
+C:\Users\HP\source\repos\CP03_biblio\WinBiblio\bin\Debug\DAL.dll
+C:\Users\HP\source\repos\CP03_biblio\WinBiblio\bin\Debug\MySql.Data.dll
+C:\Users\HP\source\repos\CP03_biblio\WinBiblio\bin\Debug\DAL.pdb
+C:\Users\HP\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.Accueil.resources
+C:\Users\HP\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.Properties.Resources.resources
+C:\Users\HP\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.csproj.CopyComplete
+C:\Users\HP\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.exe
+C:\Users\HP\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.pdb
+C:\Users\HP\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.FrmListeLivresGenre.resources
+C:\Users\HP\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.FrmInscriptionAdherent.resources
+C:\Users\HP\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.FrmConnexion.resources
+C:\Users\HP\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.FrmListeRetardataires.resources
+C:\Users\darek\source\repos\CP03_biblio\WinBiblio\bin\Debug\WinBiblio.exe.config
+C:\Users\darek\source\repos\CP03_biblio\WinBiblio\bin\Debug\WinBiblio.exe
+C:\Users\darek\source\repos\CP03_biblio\WinBiblio\bin\Debug\WinBiblio.pdb
+C:\Users\darek\source\repos\CP03_biblio\WinBiblio\bin\Debug\DAL.dll
+C:\Users\darek\source\repos\CP03_biblio\WinBiblio\bin\Debug\MySql.Data.dll
+C:\Users\darek\source\repos\CP03_biblio\WinBiblio\bin\Debug\DAL.pdb
+C:\Users\darek\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.csprojAssemblyReference.cache
+C:\Users\darek\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.Accueil.resources
+C:\Users\darek\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.FrmConnexion.resources
+C:\Users\darek\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.FrmInscriptionAdherent.resources
+C:\Users\darek\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.FrmListeLivresGenre.resources
+C:\Users\darek\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.FrmListeRetardataires.resources
+C:\Users\darek\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.Properties.Resources.resources
+C:\Users\darek\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.csproj.GenerateResource.cache
+C:\Users\darek\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.csproj.CoreCompileInputs.cache
+C:\Users\darek\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.csproj.CopyComplete
+C:\Users\darek\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.exe
+C:\Users\darek\source\repos\CP03_biblio\WinBiblio\obj\Debug\WinBiblio.pdb
+C:\Users\darek\Documents\GitHub\C#\Application Desktop\TP Biblio\WinBiblio\bin\Debug\WinBiblio.exe.config
+C:\Users\darek\Documents\GitHub\C#\Application Desktop\TP Biblio\WinBiblio\bin\Debug\WinBiblio.exe
+C:\Users\darek\Documents\GitHub\C#\Application Desktop\TP Biblio\WinBiblio\bin\Debug\WinBiblio.pdb
+C:\Users\darek\Documents\GitHub\C#\Application Desktop\TP Biblio\WinBiblio\bin\Debug\DAL.dll
+C:\Users\darek\Documents\GitHub\C#\Application Desktop\TP Biblio\WinBiblio\bin\Debug\MySql.Data.dll
+C:\Users\darek\Documents\GitHub\C#\Application Desktop\TP Biblio\WinBiblio\bin\Debug\DAL.pdb
+C:\Users\darek\Documents\GitHub\C#\Application Desktop\TP Biblio\WinBiblio\obj\Debug\WinBiblio.csprojAssemblyReference.cache
+C:\Users\darek\Documents\GitHub\C#\Application Desktop\TP Biblio\WinBiblio\obj\Debug\WinBiblio.Accueil.resources
+C:\Users\darek\Documents\GitHub\C#\Application Desktop\TP Biblio\WinBiblio\obj\Debug\WinBiblio.FrmConnexion.resources
+C:\Users\darek\Documents\GitHub\C#\Application Desktop\TP Biblio\WinBiblio\obj\Debug\WinBiblio.FrmInscriptionAdherent.resources
+C:\Users\darek\Documents\GitHub\C#\Application Desktop\TP Biblio\WinBiblio\obj\Debug\WinBiblio.FrmListeLivresGenre.resources
+C:\Users\darek\Documents\GitHub\C#\Application Desktop\TP Biblio\WinBiblio\obj\Debug\WinBiblio.FrmListeRetardataires.resources
+C:\Users\darek\Documents\GitHub\C#\Application Desktop\TP Biblio\WinBiblio\obj\Debug\WinBiblio.Properties.Resources.resources
+C:\Users\darek\Documents\GitHub\C#\Application Desktop\TP Biblio\WinBiblio\obj\Debug\WinBiblio.csproj.GenerateResource.cache
+C:\Users\darek\Documents\GitHub\C#\Application Desktop\TP Biblio\WinBiblio\obj\Debug\WinBiblio.csproj.CoreCompileInputs.cache
+C:\Users\darek\Documents\GitHub\C#\Application Desktop\TP Biblio\WinBiblio\obj\Debug\WinBiblio.csproj.CopyComplete
+C:\Users\darek\Documents\GitHub\C#\Application Desktop\TP Biblio\WinBiblio\obj\Debug\WinBiblio.exe
+C:\Users\darek\Documents\GitHub\C#\Application Desktop\TP Biblio\WinBiblio\obj\Debug\WinBiblio.pdb

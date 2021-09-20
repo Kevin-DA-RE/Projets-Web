@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\AboMultisport-AR-KD.exe.config
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\AboMultisport-AR-KD.exe
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\obj\x64\test\Frm_Cotisation.Cotisation.resources
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\obj\x64\test\AboMultisport_AR_KD.FrmAbo.resources
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\obj\x64\test\AboMultisport_AR_KD.Properties.Resources.resources
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\obj\x64\test\AboMultisport-AR-KD.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\obj\x64\test\AboMultisport-AR-KD.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\obj\x64\test\AboMultisport-AR-KD.exe
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\obj\x64\test\AboMultisport-AR-KD.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\Metier.dll
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\bin\x64\test\Metier.pdb
+C:\Users\HP\source\repos\AboMultisport-AR-KD\AboMultisport-AR-KD\obj\x64\test\AboMultisport-AR-KD.csproj.CopyComplete
