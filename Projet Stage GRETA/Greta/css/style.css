@@ -1,0 +1,232 @@
+/* Style de l'entête */
+
+.groupConnexion{
+    margin: 10% 40%;
+}
+.formIdent{
+    background-color: lightgreen;
+    text-align: center;
+    border: black solid;
+    border-radius: 20px;
+    width: max-content;
+    padding: 20px;
+}
+
+
+
+.textAccueil{
+    background-color: darkgrey;
+}
+
+
+.header{
+    background-color: darkgrey;
+    text-align: center;
+}
+
+.page-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.headerTitle{
+    display: flex;
+    flex-direction: row;
+}
+
+.headAdmin{
+    margin-right: 20px;
+}
+
+.libAdmin{
+
+}
+
+
+
+
+/* Style de l'entête listing */
+
+.mainList{
+    margin-top: 50px;
+}
+
+.list{
+    background-color: lightpink;
+}
+
+.allFilter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.filter{
+    font-size: 30px;
+}
+
+.labelFiltre{
+    font-size: 25px;
+}
+
+
+
+.contTable{
+    display: inline-grid;
+}
+
+
+thead{
+    background-color: lightgreen;
+    font-size: 30px;
+}
+tbody{
+    background-color: lightslategrey;
+    color: antiquewhite;
+    font-family: cursive;
+}
+
+td{
+    font-size: 25px;
+}
+
+
+.li{
+    list-style-type: disclosure-closed;
+}
+
+.img-listing{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.textNav{
+    font-size: 25px;
+}
+
+/* Style du corps de l'application */
+
+body, footer {
+    background-color: lightgray;
+    color: royalblue;
+}
+
+section{
+    text-align: center;
+}
+.header {
+    text-align: center;
+}
+
+.textApps{
+    font-size: 25px;
+}
+
+
+
+.atelCreat{
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: darkcyan;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+.formSaisi{
+    margin-left: 42%;
+}
+
+.select-list{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+
+
+ /* STYLE MESSAGE INTERMEDIAIRE */
+
+.messInterm{
+    margin: 10% 15%;
+    padding: 5px;
+    font-size: 20px;
+}
+article{
+    padding: 30px 10px;
+    background-color: darkslategrey;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btnMess{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10%;
+}
+
+/* STYLE FORMULAIRES */
+
+.dtUser{
+    border: solid yellow;
+    padding: 20px 15px;
+}
+
+.userCard{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.userDes{
+    border: 2px solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 500px;
+}
+
+/* STYLE CALENDRIER */
+
+
+.calendar__table {
+    width: 1400px;
+    height: 700px;
+}
+
+.calendar__table td {
+    border: 1px;
+    border-width: 1px;
+    border-color: black;
+    padding: 10px;
+    vertical-align: top;
+    width: 14.29%;
+    height: 20%;
+}
+
+.calendar__table--4weeks td {
+    height: 25%;
+}
+
+.calendar__table--6weeks td {
+    height: 16.67%;
+}
+
+.calendar__weekday {
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+.calendar__day {
+    font-size: 1.2em;
+}
+
+.calendar__othermonth .calendar__day {
+    opacity: 0.5;
+}
+
+
