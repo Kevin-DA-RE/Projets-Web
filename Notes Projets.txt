@@ -2,6 +2,6 @@ Bonjour et bienvenue sur mon espace GitHub !
 
 Vous trouverez dans le dossier "Projets Web" tous les projets que j'ai réalisé jusqu'a aujourd'hui.
 Pour la plupart de ces projets, ils ne sont pas terminés dû au manque de temps qui nous étaient consacrés mais
-cela permet d'avoir une approche de ceux-ci en terme de méthode de programmation.
+cela permet d'avoir une approche de ceux-ci en terme de méthodes de programmation.
 
 Je vous souhaite une bonne visite !
