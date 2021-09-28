@@ -12,7 +12,7 @@ export class AppareilComponent implements OnInit {
   appareilName!: string;
 
   @Input()
-  appareilStatus: string= 'éteint';
+  appareilStatus!: string;
 
   constructor() { }
 
