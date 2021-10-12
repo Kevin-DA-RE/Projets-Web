@@ -13,7 +13,7 @@ function connexion()
     // Définition des variables de connexion
     $user = "root";
     $pass = "mysql";
-    $dsn = 'mysql:host=localhost;dbname=greta'; //Data Source Name
+    $dsn = 'mysql:host=mysql-planing-greta-stage-cda-kevin-da-re.alwaysdata.net;dbname=greta'; //Data Source Name
     // Connexion 
     try {
         $dbh = new PDO($dsn, $user, $pass, array(
