@@ -10,9 +10,6 @@ export class AppareilViewComponent implements OnInit {
   isAuth = false;
 
   lastUpdate = new Date();
-
- 
-  
   appareils: any[] | undefined;
 
   constructor(private appareilService: AppareilService) {
